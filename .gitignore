@@ -1,13 +1,14 @@
 ### Dir ###
 
-node_nodules/
+*/node_nodules/
 src/out/
-*/.idea/
+.idea/
+src/.idea/
 docs/private/
 
 ### files ###
 
-lib.iml
+src/lib.iml
 *.iml
 *.js
 *.xml
