@@ -1,7 +1,9 @@
 package dev.varius;
 
+import dev.varius.apps.app;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        app.main();
     }
 }
