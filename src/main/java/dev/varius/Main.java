@@ -1,7 +1,7 @@
-import lib.Entry;
+package dev.varius;
 
 public class Main {
     public static void main(String[] args) {
-        Entry.main();
+        System.out.println("Hello world!");
     }
 }

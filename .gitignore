@@ -4,6 +4,8 @@
 src/out/
 .idea/
 src/.idea/
+.idea/
+target/
 docs/private/
 
 ### files ###
